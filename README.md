@@ -3,6 +3,8 @@ Combined a theoretical framework with field data to simulate the movement of wat
 
 # Long Description
 
+The complete project report can be viewed here: [Project Report (Dec 2024) (PDF)]("ODE Project - 06-12-2024 0023 hours.pdf")
+
 ## Two-Compartment Model for Water Transport in Banana Crops
 
 As part of my coursework on modeling continuous changes through **Ordinary Differential Equations (ODEs)**, I worked on a team project to develop a **two-compartment model** simulating water transport between soil and plants, with a focus on **banana crops**.
