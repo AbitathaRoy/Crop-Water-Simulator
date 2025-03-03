@@ -3,7 +3,7 @@ Combined a theoretical framework with field data to simulate the movement of wat
 
 # Long Description
 
-The complete project report can be viewed here: [Project Report (Dec 2024) (PDF)](docs/ODE%20Project%20–%2006-12-2024%200023%20hours.pdf)
+The complete project report can be viewed here: [Project Report (Dec 2024) (PDF)](docs/ODE%20Project%20-%2006-12-2024%200023%20hours.pdf)
 
 ## Two-Compartment Model for Water Transport in Banana Crops
 
